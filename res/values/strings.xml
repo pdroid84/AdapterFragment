@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AdapterFragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string-array name="titles">
+        <item>Title 1</item>
+        <item>Title 2</item>
+        <item>Title 3</item>
+        <item>Title 4</item>
+        <item>Title 5</item>
+        <item>Title 6</item>
+        <item>Title 7</item>
+        <item>Title 8</item>
+        <item>Title 9</item>
+        <item>Title 10</item>
+    </string-array>
+    <string-array name="details">
+        <item>Detail line of title 1</item>
+        <item>Detail line of title 2</item>
+        <item>Detail line of title 3</item>
+        <item>Detail line of title 4</item>
+        <item>Detail line of title 5</item>
+        <item>Detail line of title 6</item>
+        <item>Detail line of title 7</item>
+        <item>Detail line of title 8</item>
+        <item>Detail line of title 9</item>
+        <item>Detail line of title 10</item>
+    </string-array>
+</resources>
